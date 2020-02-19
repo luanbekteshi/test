@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="informatat">Informatat e objektit</string>
+    <string name="siperfaqja">Siperfaqja</string>
+    <string name="lartesia">Lartesia</string>
+    <string name="dritaret">Dritaret</string>
+    <string name="izolimi">Izolimi</string>
+
+</resources>
